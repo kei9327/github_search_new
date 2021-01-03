@@ -1,0 +1,6 @@
+include ':remote'
+include ':local'
+include ':domain'
+include ':data'
+include ':app'
+rootProject.name = "githubSearch"

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github user search</string>
+    <string name="tab_text_1">API</string>
+    <string name="tab_text_2">Local</string>
+    <string name="title_search">API</string>
+    <string name="title_favorite">Loacl</string>
+</resources>
